@@ -2,7 +2,7 @@
  * Usage: node test.js
  */
 
-var mime = require('./mime');
+var mime = require('./browserify-mime');
 var assert = require('assert');
 
 function eq(a, b) {
